@@ -9,3 +9,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-lancini&count_private=true&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-lancini&count_private=true&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-lancini&count_private=true&show_icons=true&theme=dracula)
