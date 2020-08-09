@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Marco Lancini
+
+<p align="center">
+  <a href="https://www.marcolancini.it/">
+    <img width="100" src="https://www.marcolancini.it/images/layout/logo.png" alt="logo" />
+  </a>
+</p>
 
 - 👨🏻‍💻 I'm a Cloud Security Engineer at <a href='https://www.thoughtmachine.net/' target='_blank'>Thought Machine</a>, focusing on the security of Cloud environments (AWS, GCP, Azure) and Kubernetes clusters
 - ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a low volume mailing list that highlights security-related news focused on the cloud native landscape
@@ -26,3 +32,13 @@
 <a href="https://www.youracclaim.com/badges/1cf85b63-a875-41a9-a3ec-150d176eec63/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-vault-associate.png" class="cert" alt='HashiCorp Certified: Vault Associate' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/43347689-8ccd-46c6-8e0b-983cb28cc966/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-terraform-associate.png" class="cert" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/cddcb777-da33-4d13-978e-b8b384d43fb3/" target="_blank"><img src="https://marcolancini.it/images/about/oscp.png" class="cert" alt='OSCP' width="80px"></a>
+
+<a href="https://cloudseclist.com/">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;Subscribe to the newsletter
+          </td>
+      </tr>
+  </table>
+</a>
