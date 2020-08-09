@@ -33,11 +33,12 @@
 <a href="https://www.youracclaim.com/badges/43347689-8ccd-46c6-8e0b-983cb28cc966/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-terraform-associate.png" class="cert" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/cddcb777-da33-4d13-978e-b8b384d43fb3/" target="_blank"><img src="https://marcolancini.it/images/about/oscp.png" class="cert" alt='OSCP' width="80px"></a>
 
+<br>
 <a href="https://cloudseclist.com/">
   <table align="right">
       <tr>
           <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
+            👉 &nbsp;&nbsp;Subscribe to CloudSecList
           </td>
       </tr>
   </table>
