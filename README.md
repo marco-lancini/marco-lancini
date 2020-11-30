@@ -27,6 +27,7 @@
 #### Certifications
 <a href="https://www.youracclaim.com/badges/d6e30c70-c405-4200-abbf-7400eb1f2f0f/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cissp.png" class="cert" alt='CISSP' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/df6e81a4-685e-4d34-b763-4c1db2194645/public_url" target="_blank"><img src="https://marcolancini.it/images/about/ccsp.png" class="cert" alt='CCSP' width="80px"></a>
+<a href="https://www.youracclaim.com/badges/ac592c8b-905b-4cfa-845a-cca49030084a/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cncf_cks.png" class="cert" alt='CNCF CKS' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/a8ba715f-207e-455a-a468-d2696d90caf9/public_url" target="_blank"><img src="https://marcolancini.it/images/about/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/e4728ce8-b228-443a-b1a3-e0abd6f93d09/public_url" target="_blank"><img src="https://marcolancini.it/images/about/azure_fundamentals.png" class="cert" alt='Azure Fundamentals' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/1cf85b63-a875-41a9-a3ec-150d176eec63/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-vault-associate.png" class="cert" alt='HashiCorp Certified: Vault Associate' width="80px"></a>
