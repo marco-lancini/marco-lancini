@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 👨🏻‍💻 I'm a Cloud Security Engineer at <a href='https://www.thoughtmachine.net/' target='_blank'>Thought Machine</a>, focusing on the security of Cloud environments (AWS, GCP, Azure) and Kubernetes clusters
+- 👨🏻‍💻 I'm the Lead Cloud Security Engineer at <a href='https://www.thoughtmachine.net/' target='_blank'>Thought Machine</a>, focusing on the security of Cloud environments (AWS, GCP, Azure) and Kubernetes clusters
 - ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a low volume mailing list that highlights security-related news focused on the cloud native landscape, and <a href='https://cloudsecdocs.com/' target='_blank'>CloudSecDocs</a>, a website collecting technical notes/how-tos/cheatsheets related to cloud-native technologies
 - 🖥 I'm a maintainer of <a href='https://github.com/lyft/cartography' target='_blank'>Cartography</a>, a tool that consolidates infrastructure assets and the relationships between them in a graph view powered by a Neo4j database
 - 📚 I blog about cloud security at <a href='https://www.marcolancini.it/' target='_blank'>marcolancini.it</a>
