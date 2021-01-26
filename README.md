@@ -6,9 +6,9 @@
   </a>
 </p>
 
-- 👨🏻‍💻 I'm the Lead Cloud Security Engineer at <a href='https://www.thoughtmachine.net/' target='_blank'>Thought Machine</a>, focusing on the security of the loud environments (AWS, GCP, Azure) and Kubernetes clusters hosting their core banking platform.
+- 👨🏻‍💻 I'm the Lead Cloud Security Engineer at <a href='https://www.thoughtmachine.net/' target='_blank'>Thought Machine</a>, focusing on the security of the cloud environments (AWS, GCP, Azure) and Kubernetes clusters hosting their core banking platform.
 - ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a mailing list that highlights security-related news focused on the cloud native landscape, and <a href='https://cloudsecdocs.com/' target='_blank'>CloudSecDocs</a>, a website collecting technical notes/how-tos/cheatsheets related to cloud-native technologies.
-- 🛡 I'm a member of CNCF <a href='https://github.com/cncf/sig-security' target='_blank'>sig-security</a>, and part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'>Certified Kubernetes Security Specialist (CKS)</a> Certification.
+- 🛡 I'm a member of CNCF <a href='https://github.com/cncf/sig-security' target='_blank'>sig-security</a>, and part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'>Certified Kubernetes Security Specialist (CKS)</a> certification.
 - 🖥 I'm a maintainer of <a href='https://github.com/lyft/cartography' target='_blank'>Cartography</a>, a tool that consolidates infrastructure assets and the relationships between them in a graph view powered by a Neo4j database.
 - 📚 I blog about cloud security at <a href='https://www.marcolancini.it/' target='_blank'>marcolancini.it</a>
 - 💬 For a more detailed *"About Me"*: <a href='https://www.marcolancini.it/about/' target='_blank'>marcolancini.it/about</a>
