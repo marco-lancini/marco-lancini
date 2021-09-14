@@ -26,16 +26,16 @@
 
 
 #### Certifications
-<a href="https://www.youracclaim.com/badges/d6e30c70-c405-4200-abbf-7400eb1f2f0f/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cissp.png" class="cert" alt='CISSP' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/df6e81a4-685e-4d34-b763-4c1db2194645/public_url" target="_blank"><img src="https://marcolancini.it/images/about/ccsp.png" class="cert" alt='CCSP' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/ac592c8b-905b-4cfa-845a-cca49030084a/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cncf_cks.png" class="cert" alt='CNCF CKS' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/a8ba715f-207e-455a-a468-d2696d90caf9/public_url" target="_blank"><img src="https://marcolancini.it/images/about/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>
+<a href="https://www.credly.com/badges/2896d982-5049-407a-b38b-f1a9694f0031/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cissp.png" class="cert" alt='CISSP' width="80px"></a>
+<a href="https://www.credly.com/badges/df6e81a4-685e-4d34-b763-4c1db2194645/public_url" target="_blank"><img src="https://marcolancini.it/images/about/ccsp.png" class="cert" alt='CCSP' width="80px"></a>
+<a href="https://www.credly.com/badges/ac592c8b-905b-4cfa-845a-cca49030084a/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cncf_cks.png" class="cert" alt='CNCF CKS' width="80px"></a>
+<a href="https://www.credly.com/badges/b1268140-4b5e-42c5-ac3d-113c2036d7cd/public_url" target="_blank"><img src="https://marcolancini.it/images/about/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>
 <a href="https://www.credential.net/3ecf1597-ba30-4d3d-9403-b23d1de14548" target="_blank"><img src="https://marcolancini.it/images/about/gcp_associate.png" class="cert" alt="GCP Associate Cloud Engineer" width="80px"></a>
 <a href="https://www.credential.net/3a75d99c-a92e-4d80-b376-d9c561b46846" target="_blank"><img src="https://marcolancini.it/images/about/gcp_security.png" class="cert" alt="GCP Professional Cloud Security Engineer" width="80px"></a>
-<a href="https://www.youracclaim.com/badges/e4728ce8-b228-443a-b1a3-e0abd6f93d09/public_url" target="_blank"><img src="https://marcolancini.it/images/about/azure_fundamentals.png" class="cert" alt='Azure Fundamentals' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/1cf85b63-a875-41a9-a3ec-150d176eec63/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-vault-associate.png" class="cert" alt='HashiCorp Certified: Vault Associate' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/43347689-8ccd-46c6-8e0b-983cb28cc966/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-terraform-associate.png" class="cert" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/cddcb777-da33-4d13-978e-b8b384d43fb3/" target="_blank"><img src="https://marcolancini.it/images/about/oscp.png" class="cert" alt='OSCP' width="80px"></a>
+<a href="https://www.credly.com/badges/e4728ce8-b228-443a-b1a3-e0abd6f93d09/public_url" target="_blank"><img src="https://marcolancini.it/images/about/azure_fundamentals.png" class="cert" alt='Azure Fundamentals' width="80px"></a>
+<a href="https://www.credly.com/badges/2e06805e-69ca-43bc-92f3-706dd51b238c/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-vault-associate.png" class="cert" alt='HashiCorp Certified: Vault Associate' width="80px"></a>
+<a href="https://www.credly.com/badges/2b646b25-ea73-436b-abfd-35b2a602741f/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-terraform-associate.png" class="cert" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
+<a href="https://www.credly.com/badges/cddcb777-da33-4d13-978e-b8b384d43fb3/public_url" target="_blank"><img src="https://marcolancini.it/images/about/oscp.png" class="cert" alt='OSCP' width="80px"></a>
 
 <br>
 <a href="https://cloudseclist.com/">
