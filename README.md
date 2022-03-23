@@ -7,7 +7,7 @@
 </p>
 
 - 💼 I am a Security Engineer with experience building security functions at Fortune500, Pre-IPO companies, and exponential growth startups.
-- 👨🏻‍💻 Currently, I'm a Staff Cloud Security Engineer (acting Engineering Manager) at <a href='https://gitlab.com/' target='_blank'>Gitlab</a>, owning efforts related to securing GitLab's SaaS infrastructure, alongside cloud and container technologies.
+- 👨🏻‍💻 Currently, I'm a Staff Cloud Security Engineer (acting Engineering Manager) at <a href='https://gitlab.com/' target='_blank'>Gitlab</a>, owning efforts to secure GitLab's SaaS infrastructure, alongside cloud and container technologies.
 - ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a newsletter that highlights security-related news focused on the cloud native landscape, and <a href='https://cloudsecdocs.com/' target='_blank'>CloudSecDocs</a>, a website collecting and sharing my technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
 - 🛡 I'm a member of CNCF <a href='https://github.com/cncf/tag-security' target='_blank'>Security Technical Advisory Group (STAG)</a>, and part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'>Certified Kubernetes Security Specialist (CKS)</a> Certification.
 - 🖥 I'm a maintainer of <a href='https://github.com/lyft/cartography' target='_blank'>Cartography</a>, a tool that consolidates infrastructure assets and the relationships between them in a graph view powered by a Neo4j database.
