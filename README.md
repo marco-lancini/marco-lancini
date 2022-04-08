@@ -39,7 +39,7 @@
 <a href="https://www.credly.com/badges/e4728ce8-b228-443a-b1a3-e0abd6f93d09/public_url" target="_blank"><img src="https://marcolancini.it/images/about/azure_fundamentals.png" class="cert" alt='Azure Fundamentals' width="80px"></a>
 <a href="https://www.credly.com/badges/2e06805e-69ca-43bc-92f3-706dd51b238c/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-vault-associate.png" class="cert" alt='HashiCorp Certified: Vault Associate' width="80px"></a>
 <a href="https://www.credly.com/badges/2b646b25-ea73-436b-abfd-35b2a602741f/public_url" target="_blank"><img src="https://marcolancini.it/images/about/hashicorp-certified-terraform-associate.png" class="cert" alt='HashiCorp Certified: Terraform Associate' width="80px"></a>
-<a href="https://www.credly.com/badges/cddcb777-da33-4d13-978e-b8b384d43fb3/public_url" target="_blank"><img src="https://marcolancini.it/images/about/oscp.png" class="cert" alt='OSCP' width="80px"></a>
+<a href="https://www.credential.net/de7790a9-474b-4d39-80c0-2f222fe5f4e2" target="_blank"><img src="https://marcolancini.it/images/about/oscp.png" class="cert" alt='OSCP' width="80px"></a>
 
 <br>
 <a href="https://cloudseclist.com/">
