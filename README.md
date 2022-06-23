@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.marcolancini.it/">
-    <img src="https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-cropped.png" alt="logo" />
+    <img src="https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/dark-cropped.png" alt="logo" />
   </a>
 </p>
 
