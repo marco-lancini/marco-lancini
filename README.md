@@ -12,7 +12,7 @@
 * 📚 I <a href='https://blog.marcolancini.it/' target='_blank'><strong>blog</strong></a> about cloud security and technical leadership, and I'm writing <a href='https://cloudsecbooks.com/' target='_blank'><strong>The CloudSec Engineer</strong></a>, a book on how to enter, establish yourself, and thrive in the cloud security industry as an individual contributor.
 * 🔑 I also run a <a href='https://www.marcolancini.it/consulting/' target='_blank'><strong>boutique security advisory firm</strong></a>, and I am an an advisor and <a href='https://www.marcolancini.it/investing/' target='_blank'><strong>angel investor</strong></a> of a few early-stage startups.
 * 🛡 I am a member of the CNCF <a href='https://github.com/cncf/tag-security' target='_blank'><strong>Security Technical Advisory Group (STAG)</strong></a>, part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'><strong>Certified Kubernetes Security Specialist (CKS)</strong></a> Certification, and maintainer of <a href='https://github.com/lyft/cartography' target='_blank'><strong>Cartography</strong></a>.
-* 💬 For a more detailed *"About Me"*: <a href='https://www.marcolancini.it/about/' target='_blank'>marcolancini.it</a>
+* 💬 You can find additional information about me at: <a href='https://www.marcolancini.it/' target='_blank'>marcolancini.it</a>
 
 
 #### How to Reach Me?
