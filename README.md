@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://www.marcolancini.it/">
-    ![Logo](https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-notitle-white-cropped.png#gh-dark-mode-only)
-    ![Logo](https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-notitle-dark-cropped.png#gh-light-mode-only)
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-notitle-white-cropped.png">
+      <img alt="Logo" src="https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-notitle-dark-cropped.png">
+    </picture>
   </a>
 </p>
 
