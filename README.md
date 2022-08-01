@@ -1,16 +1,15 @@
 <p align="center">
   <a href="https://www.marcolancini.it/">
-    <img src="https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-notitle-white-cropped.png" alt="logo" />
+    <img src="https://assets.marcolancini.it/hotlink-ok/personal/v2/logo/transparent-notitle-dark-cropped.png" alt="logo" />
   </a>
 </p>
 
-- 💼 I am a Security Engineer with experience building security functions at Fortune500, pre-IPO companies, and exponential growth startups.
-- 👨🏻‍💻 Currently, I'm a Principal Security Engineer at <a href='https://gitlab.com/' target='_blank'>GitLab</a>, owning efforts to secure GitLab's SaaS infrastructure, alongside cloud and container technologies.
-- ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a newsletter that highlights security-related news focused on the cloud native landscape, and <a href='https://cloudsecdocs.com/' target='_blank'>CloudSecDocs</a>, a website collecting and sharing my technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
-- 🛡 I'm a member of CNCF <a href='https://github.com/cncf/tag-security' target='_blank'>Security Technical Advisory Group (STAG)</a>, and part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'>Certified Kubernetes Security Specialist (CKS)</a> Certification.
-- 🖥 I'm a maintainer of <a href='https://github.com/lyft/cartography' target='_blank'>Cartography</a>, a tool that consolidates infrastructure assets and the relationships between them in a graph view powered by a Neo4j database.
-- 📚 I blog about cloud security at <a href='https://blog.marcolancini.it/' target='_blank'>blog.marcolancini.it</a>
-- 💬 For a more detailed *"About Me"*: <a href='https://www.marcolancini.it/' target='_blank'>marcolancini.it</a>
+* 💼 I am a <strong>Principal Security Engineer</strong> with experience building security functions at Fortune500, pre-IPO companies, and exponential growth startups. Currently, I'm owning efforts to secure <a href='https://gitlab.com/' target='_blank'><strong>GitLab</strong></a>'s SaaS infrastructure alongside cloud and container technologies.
+* ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'><strong>CloudSecList</strong></a>, a newsletter highlighting security-related news focused on the cloud-native landscape (with thousands of professionals already subscribed), and <a href='https://cloudsecdocs.com/' target='_blank'><strong>CloudSecDocs</strong></a>, a website collecting and sharing my technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
+* 📚 I <a href='https://blog.marcolancini.it/' target='_blank'><strong>blog</strong></a> about cloud security and technical leadership, and I'm writing <a href='https://cloudsecbooks.com/' target='_blank'><strong>The CloudSec Engineer</strong></a>, a book on how to enter, establish yourself, and thrive in the cloud security industry as an individual contributor.
+* 🔑 I also run a <a href='{{ "/consulting/" | relative_url }}' target='_blank'><strong>boutique security advisory firm</strong></a>, and I am an an advisor and <a href='{{ "/investing/" | relative_url }}' target='_blank'><strong>angel investor</strong></a> of a few early-stage startups.
+* 🛡 I am a member of the CNCF <a href='https://github.com/cncf/tag-security' target='_blank'><strong>Security Technical Advisory Group (STAG)</strong></a>, part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'><strong>Certified Kubernetes Security Specialist (CKS)</strong></a> Certification, and maintainer of <a href='https://github.com/lyft/cartography' target='_blank'><strong>Cartography</strong></a>.
+* 💬 For a more detailed *"About Me"*: <a href='https://www.marcolancini.it/about/' target='_blank'>marcolancini.it</a>
 
 
 #### How to Reach Me?
