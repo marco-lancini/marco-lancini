@@ -46,13 +46,9 @@
 
 <div style="display: flex; align-items: center; vertical-align: middle;">
   <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?&cb-cards.q=marco%2Blancini" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/aws_community_builder.png" alt='AWS Community Builder' width="80px" style="padding-right: 10px"></a>
-
   <a href="https://biztechmagazine.com/article/2022/09/30-small-business-it-influencers-worth-following-2022" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/biztech_influencer_2022.jpg" alt='30 Small Business IT Influencers Worth Following in 2022' width="80px" style="padding-right: 10px"></a>
-
   <a href="https://leadthefuture.tech/" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/ltf.png" alt='Lead the Future' width="80px" style="padding-right: 10px"></a>
-
   <a href="https://github.com/cncf/tag-security" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/cncf_stag.png" alt='CNCF STAG' width="80px" style="padding-right: 10px"></a>
-
   <a href="https://alumni.polimi.it/en/" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/alumni_polimi.jpg" alt='Alumni Politecnico di Milano' width="80px" style="padding-right: 10px"></a>
 </div>
 
