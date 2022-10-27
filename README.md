@@ -11,7 +11,7 @@
 * ✍🏻 I curate <a href='https://cloudseclist.com/' target='_blank'><strong>CloudSecList</strong></a>, a newsletter highlighting security-related news focused on the cloud-native landscape (with thousands of professionals already subscribed), and <a href='https://cloudsecdocs.com/' target='_blank'><strong>CloudSecDocs</strong></a>, a website collecting and sharing my technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
 * 📚 I <a href='https://blog.marcolancini.it/' target='_blank'><strong>blog</strong></a> about cloud security, strategy, and technical leadership, and I'm writing <a href='https://cloudsecbooks.com/' target='_blank'><strong>The CloudSec Engineer</strong></a>, a book on how to enter, establish yourself, and thrive in the cloud security industry as an individual contributor.
 * 🔑 I also run a <a href='https://www.marcolancini.it/consulting/' target='_blank'><strong>boutique security advisory firm</strong></a>, and I am an advisor and <a href='https://www.marcolancini.it/investing/' target='_blank'><strong>angel investor</strong></a> of a few early-stage startups.
-* 🛡 I am a member of the CNCF <a href='https://github.com/cncf/tag-security' target='_blank'><strong>Security Technical Advisory Group (STAG)</strong></a>, part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'><strong>Certified Kubernetes Security Specialist (CKS)</strong></a> Certification, part of the <a href='https://aws.amazon.com/developer/community/community-builders/' target='_blank'><strong>AWS Community Builders</strong></a> program, and maintainer of <a href='https://github.com/lyft/cartography' target='_blank'><strong>Cartography</strong></a>.
+* 🛡 I am a member of the CNCF <a href='https://github.com/cncf/tag-security' target='_blank'><strong>Security Technical Advisory Group (STAG)</strong></a>, part of the committee tasked with creating the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'><strong>Certified Kubernetes Security Specialist (CKS)</strong></a> Certification, part of the <a href='https://aws.amazon.com/developer/community/community-builders/' target='_blank'><strong>AWS Community Builders</strong></a> program, and maintainer of <a href='https://github.com/lyft/cartography' target='_blank'><strong>Cartography</strong></a>. I am also a mentor in the <a href='https://leadthefuture.tech/' target='_blank'><strong>Lead the Future</strong></a> program, a non-profit that helps young italian talents to pursue a career in the STEM field.
 * 💬 You can find additional information about me at: <a href='https://www.marcolancini.it/' target='_blank'>marcolancini.it</a>
 
 
@@ -44,12 +44,12 @@
 
 #### Accolades
 
-<div style="display: flex; align-items: center;">
-  <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?&cb-cards.q=marco%2Blancini" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/aws_community_builder.png" alt='AWS Community Builder' width="80px"></a>
-  <a href="https://biztechmagazine.com/article/2022/09/30-small-business-it-influencers-worth-following-2022" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/biztech_influencer_2022.jpg" alt='30 Small Business IT Influencers Worth Following in 2022' width="80px"></a>
-  <a href="https://github.com/cncf/tag-security" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/cncf_stag.png" alt='CNCF STAG' width="80px"></a>
-  <a href="https://alumni.polimi.it/en/" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/alumni_polimi.jpg" alt='Alumni Politecnico di Milano' width="80px"></a>
-</div>
+<a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?&cb-cards.q=marco%2Blancini" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/aws_community_builder.png" alt='AWS Community Builder' width="80px"></a>
+<a href="https://biztechmagazine.com/article/2022/09/30-small-business-it-influencers-worth-following-2022" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/biztech_influencer_2022.jpg" alt='30 Small Business IT Influencers Worth Following in 2022' width="80px"></a>
+<a href="https://leadthefuture.tech/" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/ltf.png" alt='Lead the Future' width="80px"></a>
+<a href="https://github.com/cncf/tag-security" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/cncf_stag.png" alt='CNCF STAG' width="80px"></a>
+<a href="https://alumni.polimi.it/en/" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/accolades/alumni_polimi.jpg" alt='Alumni Politecnico di Milano' width="80px"></a>
+
 
 <br>
 <a href="https://cloudseclist.com/">
