@@ -15,11 +15,12 @@
 * 💬 You can find additional information about me at: <a href='https://www.marcolancini.it/' target='_blank'>marcolancini.it</a>
 
 
-#### How to Reach Me?
+#### How to Reach Me
 
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lancinimarco)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcolancini/)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://marcolancini.it)
+[![Personal Website](https://img.shields.io/badge/-Personal_Website-5c80bc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcolancini.it)
+[![Blog](https://img.shields.io/badge/-Blog-5c80bc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.marcolancini.it)
+[![Twitter](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lancinimarco)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcolancini/)
 
 
 #### Tech Stack
