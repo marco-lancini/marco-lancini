@@ -17,10 +17,11 @@
 
 #### How to Reach Me
 
-[![Personal Website](https://img.shields.io/badge/-Personal_Website-5c80bc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marcolancini.it)
-[![Blog](https://img.shields.io/badge/-Blog-5c80bc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.marcolancini.it)
-[![Twitter](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lancinimarco)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcolancini/)
+[![](https://img.shields.io/static/v1.svg?style=flat-square&label=Personal%20Website&logo=google-chrome&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=marcolancini.it)](https://marcolancini.it)
+[![](https://img.shields.io/static/v1.svg?style=flat-square&label=Blog&logo=google-chrome&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=blog.marcolancini.it)](https://blog.marcolancini.it)
+
+[![](https://img.shields.io/static/v1.svg?style=flat-square&label=Twitter&logo=twitter&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=%40lancinimarco)](https://twitter.com/lancinimarco)
+[![](https://img.shields.io/static/v1.svg?style=flat-square&label=LinkedIn&logo=linkedin&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=marcolancini)](https://www.linkedin.com/in/marcolancini/)
 
 
 #### Tech Stack
