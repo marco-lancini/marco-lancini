@@ -24,12 +24,6 @@
 [![](https://img.shields.io/static/v1.svg?style=flat-square&label=LinkedIn&logo=linkedin&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=marcolancini)](https://www.linkedin.com/in/marcolancini/)
 
 
-#### Tech Stack
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-
 #### Certifications
 
 <a href="https://www.credly.com/badges/2896d982-5049-407a-b38b-f1a9694f0031/public_url" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/isc2_cissp.png" alt='CISSP' width="80px"></a>
