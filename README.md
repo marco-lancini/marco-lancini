@@ -20,8 +20,10 @@
 [![](https://img.shields.io/static/v1.svg?style=flat-square&label=Personal%20Website&logo=google-chrome&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=marcolancini.it)](https://marcolancini.it)
 [![](https://img.shields.io/static/v1.svg?style=flat-square&label=Blog&logo=google-chrome&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=blog.marcolancini.it)](https://blog.marcolancini.it)
 
-[![](https://img.shields.io/static/v1.svg?style=flat-square&label=Twitter&logo=twitter&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=%40lancinimarco)](https://twitter.com/lancinimarco)
+
 [![](https://img.shields.io/static/v1.svg?style=flat-square&label=LinkedIn&logo=linkedin&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=marcolancini)](https://www.linkedin.com/in/marcolancini/)
+[![](https://img.shields.io/static/v1.svg?style=flat-square&label=Twitter&logo=x&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=%40lancinimarco)](https://twitter.com/lancinimarco)
+[![](https://img.shields.io/static/v1.svg?style=flat-square&label=Bluesky&logo=bluesky&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&message=%40marcolancini)](https://bsky.app/profile/marcolancini.it){: .page-logo }
 
 
 #### Certifications
