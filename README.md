@@ -28,6 +28,7 @@
 
 #### Certifications
 
+<a href="https://www.eccouncil.org/train-certify/certified-chief-information-security-officer-cciso/" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/cciso.png" alt='C|CISO' width="80px"></a>
 <a href="https://www.credly.com/badges/2896d982-5049-407a-b38b-f1a9694f0031/public_url" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/isc2_cissp.png" alt='CISSP' width="80px"></a>
 <a href="https://www.credly.com/badges/df6e81a4-685e-4d34-b763-4c1db2194645/public_url" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/isc2_ccsp.png" class="cert" alt='CCSP' width="80px"></a>
 <a href="https://www.credly.com/badges/b1268140-4b5e-42c5-ac3d-113c2036d7cd/public_url" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>
