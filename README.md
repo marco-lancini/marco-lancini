@@ -10,7 +10,7 @@
 
 - ✍🏻 I <a href='https://blog.marcolancini.it/' target='_blank'>write</a> about cloud security, technical leadership, and security strategy. I am the author of <a href='https://cloudsecbooks.com/' target='_blank'>The CloudSec Engineer</a>, a book on how to enter, establish yourself, and thrive in the Cloud Security industry.
 
-- 🔖 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a newsletter that keeps thousands of security professionals informed about current happenings and news related to the security of cloud-native technologies, and <a href='https://cloudsecdocs.com/' target='_blank'>CloudSecDocs</a>, a website collecting and sharing my technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
+- 🔖 I curate <a href='https://cloudseclist.com/' target='_blank'>CloudSecList</a>, a newsletter that keeps thousands of security professionals informed about cloud security and its intersection with AI, and <a href='https://cloudsecdocs.com/' target='_blank'>CloudSecDocs</a>, a website collecting and sharing my technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
 
 - 🎤 I served on the committee that created the <a href='https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/' target='_blank'>Certified Kubernetes Security Specialist (CKS)</a> certification, and <strong>presented research</strong> at top-tier security conferences including Black Hat, KubeCon, OWASP AppSec, DEEPSEC, BSides, ACSAC, CCS, and NATO's CYCON.
 
