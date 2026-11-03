@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 💼 I am a <strong>Director of Security</strong> and <strong>Certified Chief Information Security Officer (C|CISO)</strong> with 13 years of experience building security functions from the ground up at Fortune 500 companies, pre-IPO startups, and high-growth organizations.
+- 💼 I am a <strong>Chief Information Security Officer (CISO)</strong> with 13 years of experience building security functions from the ground up at Fortune 500 companies, pre-IPO startups, and high-growth organizations.
 
 - ✍🏻 I <a href='https://blog.marcolancini.it/' target='_blank'>write</a> about cloud security, technical leadership, and security strategy. I am the author of <a href='https://cloudsecbooks.com/' target='_blank'>The CloudSec Engineer</a>, a book on how to enter, establish yourself, and thrive in the Cloud Security industry.
 
